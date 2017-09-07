@@ -9,6 +9,7 @@ public class Lexie {
 	{
 		
 		System.out.println("My name is Lexie");
+        System.out.println("Rohan Thakker");
 	}
 
 }
